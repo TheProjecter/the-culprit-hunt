@@ -1,0 +1,141 @@
+
+body{
+	background-image: url("images/bg.png");
+	background-color: #171717;
+	font-family: Verdana;
+	font-size: 12px;
+	
+}
+
+h1{
+	background-image: url("images/login_header.png");
+	background-attachment: scroll;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 80px;	
+}
+
+h2{
+	font-size: 30px;
+	color: white;
+}
+
+h3{
+	font-size: 25px;
+	color: white;
+}
+
+#main{
+	width: 100%;
+	background-color: #171717;
+	padding: 0;
+	margin: 0 auto;
+	display:block;
+	text-align: center;
+	
+}
+
+#left{
+	width: 50%;
+	height: 100%;
+	display:block;
+	float: left;
+
+}
+
+#right{
+	margin: 0 auto;
+	width: 50%;
+	height: 100%;
+	display:block;
+	float: right;
+
+}
+
+	 .credit {
+      text-align: center;
+      color: #444;
+      padding: 10px;
+      margin: 0 0 0 0;
+      background: #0f0f0f;
+      color: #FFF;
+      float: left;
+      width: 100%;
+    }
+       .credit a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    
+     .loginas {
+      text-align: right;
+      color: #106bd1;
+      padding: 10px;
+      margin: 0 0 0 0;
+      background: transparent;
+      float: left;
+      width: 100%;
+    }
+       .loginas a {
+      color: #106bd1;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+#caption{
+	width: 700px;
+	height: auto;
+	margin:20px auto;
+	border:1px solid #ccc;
+	border-radius:10px;
+ 	background-color: #0a0a0a;
+ 	color: #fff;
+ 	font-size: 15px;
+
+}
+
+.img{
+	display: none;
+}
+.audio{
+	display:none;
+}
+
+    input[type="submit"]{
+        background: #106bd1;
+        border: none;
+        text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+        text-transform:proper;
+        color: #eee;
+        cursor: pointer;
+        font-size: 15px;
+        margin: 5px 0;
+        padding: 5px 22px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        -webkit-border-radius:4px;
+        -webkit-box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+        -moz-box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+        box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+    }
+    
+        input[type="button"]{
+        background: #106bd1;
+        border: none;
+        text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+        text-transform:proper;
+        color: #eee;
+        cursor: pointer;
+        font-size: 15px;
+        margin: 5px 0;
+        padding: 5px 22px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        -webkit-border-radius:4px;
+        -webkit-box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+        -moz-box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+        box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+    }
